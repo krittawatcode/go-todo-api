@@ -5,4 +5,4 @@
   - TODOS.postman_collection.json
 - set env DB_PASSWORD = your DB password
 - run service
-## For clean architecture style please switch branch to feature/clean-architecture (still in process)
+## For clean architecture style please use https://github.com/krittawatcode/go-todo-clean-arch
